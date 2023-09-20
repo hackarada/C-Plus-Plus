@@ -1,14 +1,27 @@
 <map id="others::postfix_expression::postfix_evaluation" name="others::postfix_expression::postfix_evaluation">
-<area shape="rect" id="node1" title="Postfix Evaluation algorithm to compute the value from given input array." alt="" coords="5,200,183,241"/>
-<area shape="rect" id="node2" href="$d7/d75/postfix__evaluation_8cpp.html#a59fd597e0ea394abe027ced4d2ea3338" title="Evaluate answer using given last two operands from and operation." alt="" coords="231,29,408,71"/>
-<area shape="rect" id="node4" href="$dc/dc5/paranthesis__matching_8cpp.html#aae41c72130114bf31204cde6873b6095" title="push byte to stack variable" alt="" coords="493,77,543,103"/>
-<area shape="rect" id="node5" href="$d7/d75/postfix__evaluation_8cpp.html#a4c27f949c9d6659be9f5bd2ccbe1360a" title="Checks if scanned string is a number." alt="" coords="231,171,408,212"/>
-<area shape="rect" id="node10" href="$dc/dc5/paranthesis__matching_8cpp.html#a6d25c7dfbfeb52c3cb9d1b56ab49b664" title="pop a byte out of stack variable" alt="" coords="297,237,341,263"/>
-<area shape="rect" id="node11" href="$d1/dc2/classstack.html#a5b64337ec34b12e98458bb9b9d5f8f83" title=" " alt="" coords="273,287,365,314"/>
-<area shape="rect" id="node12" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/string/basic_string/stof.html#" title=" " alt="" coords="285,338,354,365"/>
-<area shape="rect" id="node3" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/string/basic_string/c_str.html#" title=" " alt="" coords="460,26,576,53"/>
-<area shape="rect" id="node6" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/algorithm/all_any_none_of.html#" title=" " alt="" coords="479,127,557,154"/>
-<area shape="rect" id="node7" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/string/basic_string/begin.html#" title=" " alt="" coords="458,178,578,205"/>
-<area shape="rect" id="node8" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/string/basic_string/empty.html#" title=" " alt="" coords="456,229,580,255"/>
-<area shape="rect" id="node9" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/string/basic_string/end.html#" title=" " alt="" coords="463,279,573,306"/>
+<area shape="rect" id="Node000001" title="Postfix Evaluation algorithm to compute the value from given input array." alt="" coords="5,154,180,195"/>
+<area shape="poly" id="edge12_Node000001_Node000001" title=" " alt="" coords="51,154,48,144,55,135,70,129,93,127,117,130,131,136,129,141,116,135,92,132,71,134,58,139,54,145,56,153"/>
+<area shape="rect" id="Node000002" href="$d7/d75/postfix__evaluation_8cpp.html#a59fd597e0ea394abe027ced4d2ea3338" title="Evaluate answer using given last two operands from and operation." alt="" coords="228,55,402,96"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,151,253,100,255,105,142,156"/>
+<area shape="rect" id="Node000005" href="$d1/dc2/classstack.html#a5b64337ec34b12e98458bb9b9d5f8f83" title=" " alt="" coords="672,92,766,118"/>
+<area shape="poly" id="edge13_Node000001_Node000005" title=" " alt="" coords="180,162,657,109,657,114,180,167"/>
+<area shape="rect" id="Node000006" href="$d7/d75/postfix__evaluation_8cpp.html#a4c27f949c9d6659be9f5bd2ccbe1360a" title="Checks if scanned string is a number." alt="" coords="228,203,402,244"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="181,191,214,198,213,204,179,196"/>
+<area shape="rect" id="Node000011" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/string/basic_string/stof.html#" title=" " alt="" coords="280,268,350,294"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="124,193,172,223,229,253,267,267,265,272,227,258,170,228,121,197"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="273,55,271,45,278,36,292,31,315,29,339,31,354,38,352,42,338,36,315,34,294,36,281,40,276,46,278,54"/>
+<area shape="rect" id="Node000003" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/string/basic_string/c_str.html#" title=" " alt="" coords="479,5,595,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="395,52,470,33,471,38,397,57"/>
+<area shape="rect" id="Node000004" href="$d7/d75/postfix__evaluation_8cpp.html#ad77f8c9cc594975756838d498c237cea" title="Pushing operand, also called the number in the array to the stack." alt="" coords="450,55,624,96"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="402,73,435,73,435,78,402,78"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="625,87,658,92,657,98,625,92"/>
+<area shape="poly" id="edge11_Node000006_Node000006" title=" " alt="" coords="273,203,271,193,278,184,292,179,315,177,339,179,354,186,352,190,338,184,315,182,294,184,281,188,276,194,278,202"/>
+<area shape="rect" id="Node000007" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/algorithm/all_any_none_of.html#" title=" " alt="" coords="498,171,576,196"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="402,205,483,190,484,196,403,210"/>
+<area shape="rect" id="Node000008" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/string/basic_string/begin.html#" title=" " alt="" coords="478,220,596,246"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="402,224,463,227,463,232,402,230"/>
+<area shape="rect" id="Node000009" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/string/basic_string/empty.html#" title=" " alt="" coords="476,269,599,295"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="395,242,472,262,471,268,394,247"/>
+<area shape="rect" id="Node000010" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/string/basic_string/end.html#" title=" " alt="" coords="483,319,591,344"/>
+<area shape="poly" id="edge10_Node000006_Node000010" title=" " alt="" coords="383,242,404,253,419,267,428,280,437,293,451,305,470,314,468,319,449,310,433,297,424,283,415,270,400,258,381,247"/>
 </map>

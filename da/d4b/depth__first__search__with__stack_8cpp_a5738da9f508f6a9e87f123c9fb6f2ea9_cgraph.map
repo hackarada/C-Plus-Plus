@@ -1,9 +1,16 @@
 <map id="graph::depth_first_search::dfs" name="graph::depth_first_search::dfs">
-<area shape="rect" id="node1" title="Explores the given vertex, exploring a vertex means traversing over all the vertices which are connec..." alt="" coords="5,99,131,141"/>
-<area shape="rect" id="node2" href="$d1/dc2/classstack.html#a6cd4b95d5de00d41b2491392338384dc" title=" " alt="" coords="215,31,298,57"/>
-<area shape="rect" id="node5" href="$d1/dc2/classstack.html#a5705c3926dcf5fd3f9c964467a50b81d" title=" " alt="" coords="212,81,301,108"/>
-<area shape="rect" id="node6" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/vector/push_back.html#" title=" " alt="" coords="179,132,335,159"/>
-<area shape="rect" id="node7" href="$d1/dc2/classstack.html#a21c0bb6ce7dcfe445cc12031977ea344" title=" " alt="" coords="217,183,296,209"/>
-<area shape="rect" id="node3" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/io/manip/endl.html#" title=" " alt="" coords="417,5,489,32"/>
-<area shape="rect" id="node4" href="$d1/dc2/classstack.html#a066e4505155b009913c47b2648b1067a" title=" " alt="" coords="383,56,524,83"/>
+<area shape="rect" id="Node000001" title="Explores the given vertex, exploring a vertex means traversing over all the vertices which are connec..." alt="" coords="5,97,128,137"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="31,96,29,87,35,78,48,72,67,70,87,72,99,79,97,84,86,77,66,75,49,77,38,82,34,88,36,95"/>
+<area shape="rect" id="Node000002" href="$d1/dc2/classstack.html#a6cd4b95d5de00d41b2491392338384dc" title=" " alt="" coords="212,29,294,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="108,94,175,64,196,56,198,61,177,69,110,98"/>
+<area shape="rect" id="Node000005" href="$d1/dc2/classstack.html#a5705c3926dcf5fd3f9c964467a50b81d" title=" " alt="" coords="208,79,298,104"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="128,106,193,97,194,102,128,111"/>
+<area shape="rect" id="Node000006" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/vector/push_back.html#" title=" " alt="" coords="176,128,330,154"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="128,122,161,126,160,132,128,127"/>
+<area shape="rect" id="Node000007" href="$d1/dc2/classstack.html#a21c0bb6ce7dcfe445cc12031977ea344" title=" " alt="" coords="213,177,293,203"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="111,135,177,164,200,172,198,177,175,169,109,140"/>
+<area shape="rect" id="Node000003" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/io/manip/endl.html#" title=" " alt="" coords="414,5,485,31"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="294,35,399,22,400,27,295,40"/>
+<area shape="rect" id="Node000004" href="$d1/dc2/classstack.html#a066e4505155b009913c47b2648b1067a" title=" " alt="" coords="378,55,521,80"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="295,45,364,54,363,59,294,50"/>
 </map>

@@ -1,5 +1,7 @@
 <map id="math/eulers_totient_function.cpp" name="math/eulers_totient_function.cpp">
-<area shape="rect" id="node1" title="C++ Program to find Euler&#39;s Totient function." alt="" coords="13,5,149,47"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,95,65,121"/>
-<area shape="rect" id="node3" title=" " alt="" coords="89,95,163,121"/>
+<area shape="rect" id="Node000001" title="C++ Program to find Euler&#39;s Totient function." alt="" coords="13,5,145,46"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,94,65,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="70,48,51,82,47,79,66,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="89,94,160,120"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="93,45,113,80,108,82,88,48"/>
 </map>

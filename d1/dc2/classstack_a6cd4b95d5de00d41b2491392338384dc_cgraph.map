@@ -1,5 +1,7 @@
 <map id="stack::pop" name="stack::pop">
-<area shape="rect" id="node1" title=" " alt="" coords="5,31,88,57"/>
-<area shape="rect" id="node2" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/io/manip/endl.html#" title=" " alt="" coords="171,5,243,32"/>
-<area shape="rect" id="node3" href="$d1/dc2/classstack.html#a066e4505155b009913c47b2648b1067a" title=" " alt="" coords="136,56,277,83"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,88,56"/>
+<area shape="rect" id="Node000002" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/io/manip/endl.html#" title=" " alt="" coords="172,5,243,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,34,157,23,158,29,89,40"/>
+<area shape="rect" id="Node000003" href="$d1/dc2/classstack.html#a066e4505155b009913c47b2648b1067a" title=" " alt="" coords="136,55,279,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="89,47,121,52,120,57,88,52"/>
 </map>

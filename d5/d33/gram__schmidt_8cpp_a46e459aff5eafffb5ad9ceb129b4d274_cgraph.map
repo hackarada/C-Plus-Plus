@@ -1,5 +1,7 @@
 <map id="linear_algebra::gram_schmidt::projection" name="linear_algebra::gram_schmidt::projection">
-<area shape="rect" id="node1" title=" " alt="" coords="5,29,149,71"/>
-<area shape="rect" id="node2" href="$d5/d33/gram__schmidt_8cpp.html#aed4d308f46ca1d91e348ca260ec1d2fb" title=" " alt="" coords="197,29,351,71"/>
-<area shape="rect" id="node3" href="$d8/d77/namespacemachine__learning.html#a6f1c98c016ad34ff3d9f39372161bd35" title=" " alt="" coords="399,37,559,63"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,144,70"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="38,29,36,19,42,10,55,5,75,3,96,5,108,12,106,17,94,10,74,8,56,10,45,15,41,20,43,28"/>
+<area shape="rect" id="Node000002" href="$d5/d33/gram__schmidt_8cpp.html#aed4d308f46ca1d91e348ca260ec1d2fb" title=" " alt="" coords="192,29,342,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,47,177,47,177,52,144,52"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="230,29,228,19,234,10,247,5,267,3,288,5,301,12,298,17,287,10,267,8,249,10,238,15,234,20,235,28"/>
 </map>

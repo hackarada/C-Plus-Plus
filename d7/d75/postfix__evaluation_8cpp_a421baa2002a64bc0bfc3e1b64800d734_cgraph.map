@@ -1,4 +1,5 @@
 <map id="others::postfix_expression::pop" name="others::postfix_expression::pop">
-<area shape="rect" id="node1" title="Popping operand, also called the number from the stack." alt="" coords="5,5,212,32"/>
-<area shape="rect" id="node2" href="$d1/dc2/classstack.html#a5b64337ec34b12e98458bb9b9d5f8f83" title=" " alt="" coords="260,5,352,32"/>
+<area shape="rect" id="Node000001" title="Popping operand, also called the number from the stack." alt="" coords="5,5,209,31"/>
+<area shape="rect" id="Node000002" href="$d1/dc2/classstack.html#a5b64337ec34b12e98458bb9b9d5f8f83" title=" " alt="" coords="257,5,350,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,16,242,16,242,21,209,21"/>
 </map>

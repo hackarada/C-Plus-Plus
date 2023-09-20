@@ -1,7 +1,11 @@
 <map id="dynamic_programming/longest_palindromic_subsequence.cpp" name="dynamic_programming/longest_palindromic_subsequence.cpp">
-<area shape="rect" id="node1" title="Program to find the Longest Palindormic Subsequence of a string." alt="" coords="108,5,265,61"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,109,83,136"/>
-<area shape="rect" id="node3" title=" " alt="" coords="107,109,173,136"/>
-<area shape="rect" id="node4" title=" " alt="" coords="197,109,270,136"/>
-<area shape="rect" id="node5" title=" " alt="" coords="295,109,353,136"/>
+<area shape="rect" id="Node000001" title="Program to find the Longest Palindormic Subsequence of a string." alt="" coords="105,5,257,61"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,109,80,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,64,75,103,73,99,136,59"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="104,109,168,135"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,62,151,97,147,94,165,60"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="192,109,264,135"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="198,60,217,94,212,97,193,63"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="287,109,345,135"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="225,59,286,98,283,103,222,64"/>
 </map>
